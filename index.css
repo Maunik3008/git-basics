@@ -2,3 +2,7 @@
     color: brown;
     width: auto;
 }
+
+.h1 :hover{
+    cursor: pointer;
+}

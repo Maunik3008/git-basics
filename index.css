@@ -4,12 +4,7 @@
 }
 
 .h1 :hover{
-    cursor: pointer;
-}
-
-.h1 :hover{
-    cursor: pointer;
-    height: auto;
+    cursor: pointer; height: auto;
     width: auto;
-    background-color: black;
+    background-color: aliceblue;
 }
